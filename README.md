@@ -1,4 +1,8 @@
 
+Forked on 2026-09-19
+
+
+
 This repo contains the source code of the paper accepted by WWW'2024 - 
 [**"Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom"**](https://arxiv.org/pdf/2405.03371)
 
